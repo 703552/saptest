@@ -1,0 +1,4 @@
+@EndUserText.label: 'SERVICE DEFINATION OF SAPUI5_ECLIPS'
+define service ZCDS_SERVICE_DEFINATION {
+  expose ZCDS_REPORT;
+}
